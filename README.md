@@ -1,7 +1,7 @@
 <div align="center">
   
-# Hola 👋! I'm Elaf
-👩‍💻 Frontend Web Developer.<br>⚡ I love creating new things.<br>🚀 Turning imagination into reality.
+# Hola! 👋 I'm Elaf
+👩‍💻 Frontend Web Developer.<br>⚡ love creating new things.<br>🚀 Turning imagination into reality.
 
 
 # Tech Stack 💻:
